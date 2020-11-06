@@ -1,16 +1,16 @@
 [submodule "Data_Lake"]
 	path = Data_Lake
-	url = https://github.com/canerakin111/Udacity-Data-Engineering
+	url = https://github.com/canerakin111/Data_Lake
 [submodule "Data_Modeling_with_Apache_Cassandra"]
 	path = Data_Modeling_with_Apache_Cassandra
-	url = https://github.com/canerakin111/Udacity-Data-Engineering
+	url = https://github.com/canerakin111/Data_Modeling_with_Apache_Cassandra
 [submodule "Data_Modeling_with_Postgres"]
 	path = Data_Modeling_with_Postgres
-	url = https://github.com/canerakin111/Udacity-Data-Engineering
+	url = https://github.com/canerakin111/Data_Modeling_with_Postgres
 [submodule "Data_PipeLines"]
 	path = Data_PipeLines
-	url = https://github.com/canerakin111/Udacity-Data-Engineering
+	url = https://github.com/canerakin111/Data_PipeLines
 [submodule "Data_Warehouse"]
 	path = Data_Warehouse
-	url = https://github.com/canerakin111/Udacity-Data-Engineering
+	url = https://github.com/canerakin111/Data_Warehouse
 
