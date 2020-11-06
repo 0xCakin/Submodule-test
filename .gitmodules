@@ -1,0 +1,6 @@
+[submodule "Data_PipeLines"]
+	path = Data_PipeLines
+	url = https://github.com/canerakin111/Udacity-Data-Engineering
+[submodule "Udacity-Data-Engineering"]
+	path = Udacity-Data-Engineering
+	url = https://github.com/canerakin111/Udacity-Data-Engineering
